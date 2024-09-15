@@ -1,4 +1,35 @@
 # Experiment-13
+##AIM
+To learn about inheritance and its type in c++.
+
+## Software Used
+VS Code
+
+## Problem Questions
+1.) Write a c++ code to do single inheritence.
+
+2.) Write a c++ code to do multiple inheritance.
+
+3.) Write a c++ code to do multilevel inheritance.
+
+4.) Write a c++ code to do hierarchical inheritance.
+
+# Theory
+Inheritance is a key feature in Object-Oriented Programming (OOP) that allows a class to acquire properties and methods from another class. In C++, inheritance is crucial for creating a hierarchy of classes, making it easier to reuse code and build more complex systems. Here’s an overview of different types of inheritance in C++:
+
+1. Single Inheritance
+Single Inheritance involves a class (derived class) inheriting from a single base class. This is the simplest form of inheritance and is used to extend the functionality of the base class.
+
+2. Multiple Inheritance
+Multiple Inheritance allows a class to inherit from more than one base class. This is useful when a derived class needs to combine functionalities from several base classes.
+
+3. Multilevel Inheritance
+Multilevel Inheritance occurs when a class is derived from another class that is already derived from a third class. This creates a chain of inheritance, where the derived class inherits properties from multiple levels of base classes.
+
+4. Hierarchical Inheritance
+Hierarchical Inheritance involves multiple derived classes inheriting from a single base class. This structure allows multiple classes to share common functionality provided by the base class.
+
+
 ## Program Codes
 1:-
 ~~~ javascript
@@ -161,4 +192,5 @@ int main() {
 <br>3)<img width="310" alt="Screenshot 2024-09-15 at 10 20 28 PM" src="https://github.com/user-attachments/assets/0506e42e-5459-4082-bc41-642e11f55535">
 <br>4)<img width="300" alt="Screenshot 2024-09-15 at 10 32 35 PM" src="https://github.com/user-attachments/assets/0a7f1037-250b-4235-926e-10e0f27b0fd3">
 
-
+## Conclusion
+Inheritance in C++ lets classes reuse and extend functionality. Single inheritance builds on one base class, multiple inheritance combines features from several, multilevel inheritance forms a chain, and hierarchical inheritance shares a base class among multiple derived classes.
