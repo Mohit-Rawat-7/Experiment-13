@@ -76,4 +76,4 @@ int main() {
 
 ## Program Outputs
 1)<img width="320" alt="Screenshot 2024-09-15 at 9 22 13 PM" src="https://github.com/user-attachments/assets/d38b1f65-7a83-4cca-ad7c-d23290fef1e8">
-2)<img width="304" alt="Screenshot 2024-09-15 at 9 34 16 PM" src="https://github.com/user-attachments/assets/ea79fd5a-7940-444c-aa84-6d0f68a699f5">
+<br>2)<img width="304" alt="Screenshot 2024-09-15 at 9 34 16 PM" src="https://github.com/user-attachments/assets/ea79fd5a-7940-444c-aa84-6d0f68a699f5">
